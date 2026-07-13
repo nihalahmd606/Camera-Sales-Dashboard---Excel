@@ -1,4 +1,4 @@
-# Camera-Sales-Dashboard (MIcrosoft Excel)
+# Camera-Sales-Dashboard (Microsoft Excel)
 Project Overview
 
 This project showcases an interactive Camera Sales Dashboard built in Microsoft Excel. The dashboard provides a comprehensive view of sales performance through dynamic charts, KPIs, slicers, and business insights.
