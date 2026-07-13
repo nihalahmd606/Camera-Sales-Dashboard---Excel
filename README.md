@@ -50,5 +50,8 @@ Skills Demonstrated
 - AI-Assisted Analytics
 - Microsoft Excel
 
+Dashboard Preview
+<img width="1067" height="540" alt="sales ai  dashboard - excel" src="https://github.com/user-attachments/assets/a1b13fe4-0abf-457a-bf25-c082b2e4afe9" />
+
 
 
